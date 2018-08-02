@@ -1,0 +1,12 @@
+.back{
+    background: linear-gradient(to right, #ef32d9, #89fffd);
+}
+
+.countryCard{
+    background-color:black;
+    opacity: 1;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    box-shadow: 2px 0px 20px 2px black;
+    color:white;
+}

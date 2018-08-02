@@ -1,0 +1,33 @@
+.back{
+    background: linear-gradient(to right, #ef32d9, #89fffd);
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+.regionCard{
+    background-color: black;
+    margin: 3%;
+    padding:3%;
+    border-radius: 5px;
+    border: 1px solid white;
+    box-shadow: 2px 0px 20px 2px black;
+    transition: all .2s ease-in-out;
+    font-size: 16px;
+}
+
+.imageCard{
+    height:90%;
+    width:90%;
+    border: 2px solid white;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.regionCard:hover{
+    background-color: black;
+    box-shadow: 2px 0px 20px 2px whitesmoke;
+    transform: scale(1.05);
+}
+
